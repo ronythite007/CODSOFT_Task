@@ -1,10 +1,10 @@
 ## Iris Flower Classification
 ### Overview
 ##### Name: Rohan Rajendra Thite
-##### Company: CODETECH IT SOLUTIONS
-##### ID: CT08DS4588
+##### Company: CodSoft
+##### ID:CS11WX331978
 ##### Domain: DATA SCIENCE
-##### Duration: JULY 10th, 2024 to AUGUST 10th, 2024
+##### Duration:15 July 2024 to 15 August 2024.
 
 This project involves using the Iris flower dataset to classify iris flowers into three species: setosa, versicolor, and virginica. The model is trained on sepal and petal measurements to accurately distinguish between the species. This dataset is a classic example used for introductory classification tasks.
 
